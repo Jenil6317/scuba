@@ -51,5 +51,8 @@
   "priority": "facebook",
   "showAd": false,
   "toBeClicked": 1,
-  "totalIntro": 5
+  "totalIntro": 5,
+  "productKey1":"1",
+  "productKey2":"2",
+  "productKey3":"3"
   }
